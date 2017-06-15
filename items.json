@@ -1,0 +1,21 @@
+{
+
+	"ID":"household",
+	"cleaning":[{"image":"../public/images/17.png", "description":"Dishwash Gel, Lemon (1.5 Ltr)", "price":"$8.00", "pre_price":"$10.00", "item1":"20"},
+				{"image":"../public/images/18.png", "description":"Dish Wash Bar (500 Gm)", "price":"$2.00", "pre_price":"$4.00"},
+				{"image":"../public/images/19.png", "description":"Air Freshener (50 Gm)", "price":"$3.00", "pre_price":"$5.00"},
+				{"image":"../public/images/20.png", "description":"Toilet Cleaner Expert (1 Ltr)", "price":"$6.00", "pre_price":"$7.00"}
+				]
+
+	"utensils":[{"image":"../public/images/21.png", "description":"Princeware Packing Container Pack (6 No's)", "price":"$8.00", "pre_price":"$10.00"},
+				{"image":"../public/images/22.png", "description":"Singnoraware Container Center Press (900 Ml)", "price":"$5.00", "pre_price":"$8.00"},
+				{"image":"../public/images/23.png", "description":"ShipStainless Steel Sauce Pan Single (1 Pc)", "price":"$6.00", "pre_price":"$8.00"},
+				{"image":"../public/images/24.png", "description":"Omega Stainless Steel Puri Dabba (1 Pc)", "price":"$6.00", "pre_price":"$8.00"}
+				]
+
+	"petfood":[{"image":"../public/images/25.png", "description":"Food FOr Adult Dogs (80 Gms)", "price":"$3.00", "pre_price":"$4.00"},
+				{"image":"../public/images/26.png", "description":"Young Adult Dogs (1.2 Kg)", "price":"$6.00", "pre_price":"$10.00"},
+				{"image":"../public/images/27.png", "description":"Cat Food Ocean Fish (1.4 Kg)", "price":"$6.00", "pre_price":"$7.00"},
+				{"image":"../public/images/28.png", "description":"Chicken In Jelly Can (400 Gm)", "price":"$7.00", "pre_price":"$9.00"}
+				]
+}

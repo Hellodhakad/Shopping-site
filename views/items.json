@@ -1,0 +1,53 @@
+{
+
+	"ID":"items",
+	"cleaning":[{"image":"public/images/17.png", "description":"Dishwash Gel, Lemon (1.5 Ltr)", "price":"8.00", "pre_price":"10.00", "name":"Dishwash Gel"},
+				{"image":"public/images/18.png", "description":"Dish Wash Bar (500 Gm)", "price":"2.00", "pre_price":"4.00", "name":"Dish Wash Bar"},
+				{"image":"public/images/19.png", "description":"Air Freshener (50 Gm)", "price":"3.00", "pre_price":"5.00", "name":"Air Freshener"},
+				{"image":"public/images/20.png", "description":"Toilet Cleaner Expert (1 Ltr)", "price":"6.00", "pre_price":"7.00", "name":"Toilet Cleaner Expert"}
+				],
+	"utensils":[{"image":"public/images/21.png", "description":"Princeware Packing Container Pack (6 No's)", "price":"8.00", "pre_price":"10.00", "name":"Princeware Packing Container"},
+				{"image":"public/images/22.png", "description":"Singnoraware Container Center Press (900 Ml)", "price":"5.00", "pre_price":"8.00", "name":"Singnoraware Container"},
+				{"image":"public/images/23.png", "description":"ShipStainless Steel Sauce Pan Single (1 Pc)", "price":"6.00", "pre_price":"8.00", "name":"ShipStainless Steel Sauce Pan"},
+				{"image":"public/images/24.png", "description":"Omega Stainless Steel Puri Dabba (1 Pc)", "price":"6.00", "pre_price":"8.00", "name":"Omega Stainless Steel Puri Dabba"}
+				],
+	"petfood":[{"image":"public/images/25.png", "description":"Food FOr Adult Dogs (80 Gms)", "price":"3.00", "pre_price":"4.00", "name":"Food FOr Adult Dogs"},
+				{"image":"public/images/26.png", "description":"Young Adult Dogs (1.2 Kg)", "price":"6.00", "pre_price":"10.00", "name":"Young Adult Dogs"},
+				{"image":"public/images/27.png", "description":"Cat Food Ocean Fish (1.4 Kg)", "price":"6.00", "pre_price":"7.00", "name":"Cat Food Ocean Fish"},
+				{"image":"public/images/28.png", "description":"Chicken In Jelly Can (400 Gm)", "price":"7.00", "pre_price":"9.00", "name":"Chicken In Jelly Can"}
+				],
+	"veg_fruits":[{"image":"public/images/9.png", "description":"Fresh Spinach (Palak)", "price":"3.00", "pre_price":"4.00", "name":"Fresh Spinach"},
+				{"image":"public/images/10.png", "description":"Fresh Mango Dasheri (1 Kg)", "price":"6.00", "pre_price":"10.00", "name":"Fresh Mango Dasheri"},
+				{"image":"public/images/11.png", "description":"Fresh Apple Red (1 Kg)", "price":"6.00", "pre_price":"7.00", "name":"Fresh Apple Red"},
+				{"image":"public/images/12.png", "description":"Fresh Broccoli (500 Gm)", "price":"7.00", "pre_price":"9.00", "name":"Fresh Broccoli"}
+				],
+	"beverages":[{"image":"public/images/13.png", "description":"Mixed Fruit Juice (1 Ltr)", "price":"3.00", "pre_price":"4.00", "name":"Mixed Fruit Juice"},
+				{"image":"public/images/14.png", "description":"Prune Juice - Sunsweet (1 Ltr)", "price":"6.00", "pre_price":"10.00", "name":"Prune Juice - Sunsweet"},
+				{"image":"public/images/15.png", "description":"Coco Cola Zero Can (330 Ml)", "price":"6.00", "pre_price":"7.00", "name":"Dishwash Gel"},
+				{"image":"public/images/16.png", "description":"Sprite Bottle (2 Ltr)", "price":"7.00", "pre_price":"9.00", "name":"Sprite Bottle"}
+				],
+	"food":[{"image":"public/images/5.png", "description":"Knorr Instant Soup (100 Gm)", "price":"3.00", "pre_price":"4.00", "name":"Knorr Instant Soup"},
+				{"image":"public/images/6.png", "description":"Chings Noodles (75 Gm)", "price":"6.00", "pre_price":"10.00", "name":"Chings Noodles"},
+				{"image":"public/images/7.png", "description":"Lahsun Sev (150 Gm)", "price":"6.00", "pre_price":"7.00", "name":"Lahsun Sev"},
+				{"image":"public/images/8.png", "description":"Premium Bake Rusk (300 Gm)", "price":"7.00", "pre_price":"9.00", "name":"Premium Bake Rusk"}
+				],
+	"softdrinks":[{"image":"public/images/49.png", "description":"Orange Soft Drink (250 Ml)", "price":"3.00", "pre_price":"4.00", "name":"Orange Soft Drink"},
+				{"image":"public/images/14.png", "description":"Prune Juice - Sunsweet (1 Ltr)", "price":"6.00", "pre_price":"10.00", "name":"Prune Juice - Sunsweet"},
+				{"image":"public/images/15.png", "description":"Coco Cola Zero Can (330 Ml)", "price":"6.00", "pre_price":"7.00", "name":"Coco Cola"},
+				{"image":"public/images/16.png", "description":"Sprite Bottle (2 Ltr)", "price":"7.00", "pre_price":"9.00", "name":"Sprite Bottle"}
+				],
+	"juices":[{"image":"public/images/13.png", "description":"Mixed Fruit Juice (1 Ltr)", "price":"3.00", "pre_price":"4.00", "name":"Mixed Fruit Juice"},
+				{"image":"public/images/50.png", "description":"Aamras Juice (250 Ml)", "price":"6.00", "pre_price":"10.00", "name":"Aamras Juice"},
+				{"image":"public/images/51.png", "description":"Coconut Water (1000 Ml)", "price":"6.00", "pre_price":"7.00", "name":"Coconut Water"},
+				{"image":"public/images/52.png", "description":"Ceres Orange Juice (1 Ltr)", "price":"7.00", "pre_price":"9.00", "name":"Ceres Orange Juice"}
+				],
+	"energydrinks":[{"image":"public/images/53.png", "description":"Dabur Glucose D (250 Gm)", "price":"3.00", "pre_price":"4.00", "name":"Dabur Glucose"},
+				{"image":"public/images/54.png", "description":"Mix Lemon Flavour (50 Gm)", "price":"6.00", "pre_price":"10.00", "name":"Mix Lemon Flavour"},
+				{"image":"public/images/55.png", "description":"Schweppes Water (250 Ltr)", "price":"6.00", "pre_price":"7.00", "name":"Schweppes Water"},
+				{"image":"public/images/56.png", "description":"Red Bull Energy Drink (250 Ml)", "price":"7.00", "pre_price":"9.00", "name":"Red Bull Energy Drink"}
+				],
+	"cata":{"name":"SOFT DRINKS", "name":"JIUICES", "name":"ENERGY DRINKS"}
+	
+
+
+}
